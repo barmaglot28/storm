@@ -1,0 +1,14 @@
+{
+  "name": "storm",
+  "version": "1.0.0",
+  "description": "Lightweight framework on commonJs for node.js applications",
+  "main": "index.js",
+  "author": "Michael Lozinsky",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
